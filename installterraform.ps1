@@ -42,3 +42,5 @@ Function Install-Terraform
     # Verify the download
     Invoke-Expression -Command "terraform version"
 }
+
+Install-Terraform
